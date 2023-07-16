@@ -1,4 +1,4 @@
-# AIOralPen 🔄  ❓
+# AIOralPen 
 语音转文字，并将内容整理为口语内容｜Voice to text, and the content organized into oral content
 [Toc]
 
@@ -27,4 +27,4 @@ ChatGPT API 常见问题: https://help.openai.com/en/articles/7039783-chatgpt-ap
 
 ## 🙏感谢
 灵感来自： AudioPen https://audiopen.ai/#!
-技术启发： https://github.com/Yue-Yang/ChatGPT-Siri 🔄  ❓
+技术启发： https://github.com/Yue-Yang/ChatGPT-Siri 
