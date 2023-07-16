@@ -1,5 +1,6 @@
 # AIOralPen 
 语音转文字，并将内容整理为口语内容｜Voice to text, and the content organized into oral content
+
 [Toc]
 
 ## 准备工作
@@ -18,7 +19,8 @@
 ## 快捷指令下载
 
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
-[AI语音笔记](https://www.icloud.com/shortcuts/65de7f6e24064ca6afaade66cb1f360d) 
+
+- [AI语音笔记](https://www.icloud.com/shortcuts/65de7f6e24064ca6afaade66cb1f360d) 
 
 
 ## 使用方法
