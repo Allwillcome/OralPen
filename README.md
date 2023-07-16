@@ -26,5 +26,5 @@
 
 
 ## 🙏感谢
-灵感来自： AudioPen https://audiopen.ai/#!
-技术启发： https://github.com/Yue-Yang/ChatGPT-Siri 
+- 灵感来自： AudioPen https://audiopen.ai/#! 
+- 技术启发： https://github.com/Yue-Yang/ChatGPT-Siri  
