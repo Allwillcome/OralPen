@@ -1,12 +1,10 @@
 # AIOralPen 
 语音转文字，并将内容整理为口语内容｜Voice to text, and the content organized into oral content
 
-[Toc]
-
 ## 准备工作
 
 确保网络能正常访问 https://api.openai.com 域名
-确保 API 帐户有足够余额：https://platform.openai.com/account/usage 
+确保 API 帐户有足够余额：https://platform.openai.com/account/usage  
 
 ## 其他相关问题
 
