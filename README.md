@@ -1,5 +1,7 @@
-# AIOralPen 
-语音转文字，并将内容整理为口语内容｜Voice to text, and the content organized into oral content
+# OralPen  
+- **Slogan**：口语转书面，快用OralPen。
+- **介绍**：录制语音转文字，借助 chatGPT 将口语提炼为书面用语。
+- **Introduction**: Record your voice and refine it into language ChatGPT understands.
 
 ## 准备工作
 
