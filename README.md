@@ -20,7 +20,7 @@
 
 ### V0.0.1 
 - [AI语音笔记 V0.0.1](https://www.icloud.com/shortcuts/65de7f6e24064ca6afaade66cb1f360d)
-**更新说明** 
+#### **更新说明** 
 - 完成最小功能，识别并保存语音
 
 
