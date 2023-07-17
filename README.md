@@ -3,16 +3,19 @@
 
 ## 准备工作
 
-确保网络能正常访问 https://api.openai.com 域名
-确保 API 帐户有足够余额：https://platform.openai.com/account/usage  
+**如果你使用OpenAI 请注意：**
+- 确保网络能正常访问 https://api.openai.com 域名
+- 确保 API 帐户有足够余额：https://platform.openai.com/account/usage   
 
-## 其他相关问题
+**如果你在国内不能访问 OpenAI，可以使用API2D。**
 
-- 如何安全使用API key（英文）：https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety  
-- API keys: https://platform.openai.com/account/api-keys  
-- API 用量: https://platform.openai.com/account/usage
-- API 价格: https://openai.com/pricing 
-- ChatGPT API 常见问题: https://help.openai.com/en/articles/7039783-chatgpt-api-faq   
+**API2D 特点：**
+- 在国内可以正常访问，
+- 功能和 OpenAI 完全一致
+- 使用时只是密钥和API 网址不同
+- 价格约为 OpenAI 官方 1.5 倍
+
+详细内容，参见：[API2D](https://api2d.com/wiki/doc)
 
 ## 快捷指令下载
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
@@ -28,7 +31,13 @@
 #### **更新说明** 
 - 完成最小功能，识别并保存语音
 
+## 其他相关问题
 
+- 如何安全使用API key（英文）：https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety  
+- API keys: https://platform.openai.com/account/api-keys   
+- API 用量: https://platform.openai.com/account/usage
+- API 价格: https://openai.com/pricing 
+- ChatGPT API 常见问题: https://help.openai.com/en/articles/7039783-chatgpt-api-faq    
 
 ## 使用方法
 将快捷指令中的文本中【请在此替换自己的 OpenAI 的 API】内容删除，并替换为自己的API。
