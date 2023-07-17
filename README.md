@@ -8,15 +8,20 @@
 
 ## 其他相关问题
 
-- 如何安全使用API key（英文）：https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety 
+- 如何安全使用API key（英文）：https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety  
 - API keys: https://platform.openai.com/account/api-keys  
 - API 用量: https://platform.openai.com/account/usage
 - API 价格: https://openai.com/pricing 
 - ChatGPT API 常见问题: https://help.openai.com/en/articles/7039783-chatgpt-api-faq   
 
 ## 快捷指令下载
-
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
+### V0.0.2
+- [AI语音笔记 V0.0.2](https://www.icloud.com/shortcuts/c7d148aeb7674840b1cd4c5bde2feb66)
+#### **更新说明**
+- 增加 OpenAI 第三方 API 服务
+- 更新 promote，保证内容为中文输入
+- 保证储存内容稳定性：即使chatGPT 联网失败也能保存愿语音内容
 
 ### V0.0.1 
 - [AI语音笔记 V0.0.1](https://www.icloud.com/shortcuts/65de7f6e24064ca6afaade66cb1f360d)
