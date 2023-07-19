@@ -1,6 +1,6 @@
 # OralPen  
 - **Slogan**：口语转书面，快用OralPen。
-- **介绍**：录制语音转文字，借助 chatGPT 将口语提炼为书面用语。
+- **介绍**：录制语音转文字，借助 chatGPT 将口语提炼为书面用语。｜Audiopen 平替。
 - **Introduction**: Record your voice and refine it into language ChatGPT understands.
 
 ## 准备工作
@@ -21,6 +21,12 @@
 
 ## 快捷指令下载
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
+### V0.0.3
+- [AI语音笔记 V0.0.3](https://www.icloud.com/shortcuts/296d2cea617e4a77bc000d643c434df1)
+#### **更新说明** 
+- 修改提示语
+- 未检测到内容时，不新建备忘录
+
 ### V0.0.2
 - [AI语音笔记 V0.0.2](https://www.icloud.com/shortcuts/c7d148aeb7674840b1cd4c5bde2feb66)
 #### **更新说明**
