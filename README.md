@@ -21,6 +21,15 @@
 
 ## 快捷指令下载
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
+### V0.0.4
+- [AI_语音笔记_V0.0.4](https://www.icloud.com/shortcuts/74bb4200b98e41fba0b4d7ec09fe755b)
+
+#### **更新说明**
+V0.0.4 
+- 首次导入快捷指令会提示填写 API-key
+- 调试版快捷指令增加转写内容评价
+- 确定语音识别录制上限为 90秒，超出时长，快捷指令后自动弹出。且使用快捷指令时手机屏幕不能熄灭
+
 ### V0.0.3
 - [AI语音笔记 V0.0.3](https://www.icloud.com/shortcuts/296d2cea617e4a77bc000d643c434df1)
 #### **更新说明** 
