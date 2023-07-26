@@ -17,12 +17,20 @@
 - 使用时只是密钥和API 网址不同
 - 价格约为 OpenAI 官方 1.5 倍
 
-详细内容，参见：[API2D](https://api2d.com/wiki/doc)🔄  ❓ 
+详细内容，参见：[API2D](https://api2d.com/wiki/doc)🔄  ❓  🔄  ❓
 
 ## 快捷指令下载
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac。
 ### V0.0.5
-- [AI_语音笔记_V0.0.4](https://www.icloud.com/shortcuts/b41dd92712584f1db063590e75194084) 
+- [AI_语音笔记_V0.0.4](https://www.icloud.com/shortcuts/b41dd92712584f1db063590e75194084)
+
+### **更新说明**
+V0.0.5 
+- 根据密钥格式选择域名
+- 进一步优化提示词，避免转写内容太生硬
+- 增加 GPT-4 支持
+- 调试版本增加文字和语音两种输入方式
+- 增加报错跳转链接
 
 ### V0.0.4
 - [AI_语音笔记_V0.0.4](https://www.icloud.com/shortcuts/74bb4200b98e41fba0b4d7ec09fe755b) 
