@@ -17,12 +17,15 @@
 - 使用时只是密钥和API 网址不同
 - 价格约为 OpenAI 官方 1.5 倍
 
-详细内容，参见：[API2D](https://api2d.com/wiki/doc)
+详细内容，参见：[API2D](https://api2d.com/wiki/doc)🔄  ❓ 
 
 ## 快捷指令下载
-点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
+点击下面链接下载快捷指令，支持 iPhone、iPad、Mac。
+### V0.0.5
+- [AI_语音笔记_V0.0.4](https://www.icloud.com/shortcuts/b41dd92712584f1db063590e75194084) 
+
 ### V0.0.4
-- [AI_语音笔记_V0.0.4](https://www.icloud.com/shortcuts/74bb4200b98e41fba0b4d7ec09fe755b)
+- [AI_语音笔记_V0.0.4](https://www.icloud.com/shortcuts/74bb4200b98e41fba0b4d7ec09fe755b) 
 
 #### **更新说明**
 V0.0.4 
@@ -52,14 +55,26 @@ V0.0.4
 
 - 如何安全使用API key（英文）：https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety  
 - API keys: https://platform.openai.com/account/api-keys   
-- API 用量: https://platform.openai.com/account/usage
+- API 用量: https://platform.openai.com/account/usage 
 - API 价格: https://openai.com/pricing 
-- ChatGPT API 常见问题: https://help.openai.com/en/articles/7039783-chatgpt-api-faq    
+- ChatGPT API 常见问题: https://help.openai.com/en/articles/7039783-chatgpt-api-faq     
 
 ## 使用方法
 将快捷指令中的文本中【请在此替换自己的 OpenAI 的 API】内容删除，并替换为自己的API。
 
+## 常见错误
+### 1. 无法访问 GPT-4 模型
+#### 错误代码
+```
+{"error":{"param":null,"message":"The model `gpt-4` does not exist or you do not have access to it. Learn more: 
+
+https:\/\/help.openai.com\/en\/articles\/7102672-how-can-i-access-gpt-4.","code":"model_not_found","type":"invalid_request_error"}} 
+```
+#### 错误原因
+如果是免费注册的 OpenAI 账号中的 API-Key 暂不支持GPT-4
+#### 解决方法
+编辑快捷指令，将列表中的gpt-3.5-turbo移动到列表第一项
 
 ## 🙏感谢
-- 灵感来自： AudioPen https://audiopen.ai/#! 
-- 技术启发： https://github.com/Yue-Yang/ChatGPT-Siri  
+- 灵感来自： AudioPen https://audiopen.ai/#!  🔄  ❓
+- 技术启发： https://github.com/Yue-Yang/ChatGPT-Siri   🔄  ❓
