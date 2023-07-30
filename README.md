@@ -1,5 +1,5 @@
 # OralPen  
-- **Slogan**：口语转书面，快用OralPen。
+- **Slogan**：出口，AI 成章。 🔄  ❓
 - **介绍**：录制语音转文字，借助 chatGPT 将口语提炼为书面用语。｜Audiopen 平替。
 - **Introduction**: Record your voice and refine it into language ChatGPT understands.
 
