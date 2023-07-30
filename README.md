@@ -1,5 +1,5 @@
 # OralPen  
-- **Slogan**：出口，AI 成章。 🔄  ❓
+- **Slogan**：出口，AI 成章。 
 - **介绍**：录制语音转文字，借助 chatGPT 将口语提炼为书面用语。｜Audiopen 平替。
 - **Introduction**: Record your voice and refine it into language ChatGPT understands.
 
@@ -17,7 +17,7 @@
 - 使用时只是密钥和API 网址不同
 - 价格约为 OpenAI 官方 1.5 倍
 
-详细内容，参见：[API2D](https://api2d.com/wiki/doc)🔄  ❓  🔄  ❓
+详细内容，参见：[API2D](https://api2d.com/wiki/doc)
 
 ## 快捷指令下载
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac。
