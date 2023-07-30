@@ -21,9 +21,20 @@
 
 ## 快捷指令下载
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac。
-### V0.0.5
-- [AI_语音笔记_V0.0.4](https://www.icloud.com/shortcuts/b41dd92712584f1db063590e75194084)
+## 使用教程
+https://www.xiaohongshu.com/explore/64c5fe51000000000b02ae87
 
+
+### V0.0.6
+- [AI_语音笔记_V0.0.6](https://www.icloud.com/shortcuts/cee6b8f73ddb4e21a720b2aa5807aef2)
+### **更新说明**
+V0.0.6
+- 增加导入时的问题
+- 增加视频教程
+
+
+### V0.0.5
+- [AI_语音笔记_V0.0.5](https://www.icloud.com/shortcuts/b41dd92712584f1db063590e75194084)
 ### **更新说明**
 V0.0.5 
 - 根据密钥格式选择域名
